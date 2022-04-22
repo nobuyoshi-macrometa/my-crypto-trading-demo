@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tutorial-cryptotrading/precache-manifest.cd1be268bf92251d67d82ae8c4b0fa5b.js"
+  "/my-crypto-trading-demo/precache-manifest.c131e9e1ad6f699620951e03ffabc58f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tutorial-cryptotrading/index.html", {
+workbox.routing.registerNavigationRoute("/my-crypto-trading-demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

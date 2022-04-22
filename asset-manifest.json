@@ -1,14 +1,14 @@
 {
-  "main.css": "/tutorial-cryptotrading/static/css/main.28dc7986.chunk.css",
-  "main.js": "/tutorial-cryptotrading/static/js/main.6a003e8c.chunk.js",
-  "main.js.map": "/tutorial-cryptotrading/static/js/main.6a003e8c.chunk.js.map",
-  "static/js/1.65265ae3.chunk.js": "/tutorial-cryptotrading/static/js/1.65265ae3.chunk.js",
-  "static/js/1.65265ae3.chunk.js.map": "/tutorial-cryptotrading/static/js/1.65265ae3.chunk.js.map",
-  "runtime~main.js": "/tutorial-cryptotrading/static/js/runtime~main.0eed778d.js",
-  "runtime~main.js.map": "/tutorial-cryptotrading/static/js/runtime~main.0eed778d.js.map",
-  "static/media/logo.svg": "/tutorial-cryptotrading/static/media/logo.596666c9.svg",
-  "static/css/main.28dc7986.chunk.css.map": "/tutorial-cryptotrading/static/css/main.28dc7986.chunk.css.map",
-  "index.html": "/tutorial-cryptotrading/index.html",
-  "precache-manifest.cd1be268bf92251d67d82ae8c4b0fa5b.js": "/tutorial-cryptotrading/precache-manifest.cd1be268bf92251d67d82ae8c4b0fa5b.js",
-  "service-worker.js": "/tutorial-cryptotrading/service-worker.js"
+  "main.css": "/my-crypto-trading-demo/static/css/main.66a5911d.chunk.css",
+  "main.js": "/my-crypto-trading-demo/static/js/main.a8364089.chunk.js",
+  "main.js.map": "/my-crypto-trading-demo/static/js/main.a8364089.chunk.js.map",
+  "static/js/1.f88f2c1b.chunk.js": "/my-crypto-trading-demo/static/js/1.f88f2c1b.chunk.js",
+  "static/js/1.f88f2c1b.chunk.js.map": "/my-crypto-trading-demo/static/js/1.f88f2c1b.chunk.js.map",
+  "runtime~main.js": "/my-crypto-trading-demo/static/js/runtime~main.95975421.js",
+  "runtime~main.js.map": "/my-crypto-trading-demo/static/js/runtime~main.95975421.js.map",
+  "static/media/logo.svg": "/my-crypto-trading-demo/static/media/logo.596666c9.svg",
+  "static/css/main.66a5911d.chunk.css.map": "/my-crypto-trading-demo/static/css/main.66a5911d.chunk.css.map",
+  "index.html": "/my-crypto-trading-demo/index.html",
+  "precache-manifest.c131e9e1ad6f699620951e03ffabc58f.js": "/my-crypto-trading-demo/precache-manifest.c131e9e1ad6f699620951e03ffabc58f.js",
+  "service-worker.js": "/my-crypto-trading-demo/service-worker.js"
 }
